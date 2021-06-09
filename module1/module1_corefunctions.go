@@ -11,7 +11,6 @@ import (
 	"runtime"
 	"strings"
 )
-
 //Function for reading the file
 func readFile() *ast.File {
 
